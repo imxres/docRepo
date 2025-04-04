@@ -1,0 +1,4 @@
+NASA's lunar exploration plan, as outlined in the sources, has a dual focus:
+
+• Near-term focus on achieving an initial human landing by 2024 with acceptable technical risks. This involves utilizing the SLS rocket and Orion spacecraft, as well as commercially provided Human Landing Systems (HLS). Early Artemis missions aim to test these systems and gain operational confidence.
+• Simultaneously working toward sustainable lunar exploration in the mid- to late 2020s. This involves building up infrastructure such as the Gateway and the Artemis Base Camp to support longer expeditions and enable a continued human and robotic presence on the Moon. This phase also focuses on developing and utilizing lunar resources (ISRU) and fostering partnerships with commercial and international entities for long-term activities. This sustainable approach is intended to pave the way for the first human mission to Mars.
