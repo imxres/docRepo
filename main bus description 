@@ -1,0 +1,12 @@
+The primary job of a main bus in a spacecraft is to provide the fundamental infrastructure and essential support services that enable the spacecraft and its payload to operate effectively throughout its mission.
+Here's a high-level description of its role:
+The spacecraft bus is essentially the "body" and "backbone" of the spacecraft, excluding the mission-specific payload (like scientific instruments or communication equipment). It's a modular platform that houses and integrates all the core subsystems necessary for the spacecraft to:
+ * Maintain its structural integrity: Providing a framework to mount all other components and withstand the stresses of launch and spaceflight.
+ * Generate, store, and distribute power: Typically using solar panels and batteries.
+ * Control its attitude and orbit: Using sensors, actuators (like reaction wheels and thrusters), and navigation systems.
+ * Communicate with ground control: Receiving commands and transmitting telemetry and payload data.
+ * Manage and process data: Using onboard computers and data handling systems.
+ * Regulate its temperature: Ensuring all components operate within their thermal limits through passive and active thermal control systems.
+ * Provide propulsion: For orbit adjustments, station-keeping, and potentially attitude control.
+In essence, the main bus provides the "hotel services" for the payload, ensuring it has the necessary power, stable environment, communication links, and controlled orientation to perform its intended mission. Without a functioning bus, the payload would be unable to operate.
+Think of it like a city bus: the bus (spacecraft bus) provides the transportation, power, and basic environment, while the passengers (payload) are the reason for the journey.
