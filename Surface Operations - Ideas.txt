@@ -1,0 +1,65 @@
+While the sources don't provide explicit "job descriptions" for surface operations staff on a Mars mission in the traditional sense, we can infer potential roles and responsibilities by examining NASA's Mars exploration goals, the activities planned for lunar missions as a precursor to Mars, and analogous roles in the NCAS Mission 2 Exploration Simulation Handbook.
+
+Drawing upon these sources, potential areas of responsibility for surface operations staff on a Mars mission could include:
+
+• Payload and Science Operations: Similar to the Surface Operations Specialist role in the NCAS simulation, personnel would be responsible for managing and operating the scientific instruments and payloads deployed on the Martian surface. This would involve:
+	
+	◦ Researching and understanding the capabilities of scientific instruments.
+	
+	◦ Planning and executing scientific investigations based on mission goals, such as determining if life ever existed on Mars, characterizing the 	climate and geology, and investigating water-related landforms.
+
+	◦ Operating instruments to collect data and samples. The Perseverance Mars rover uses instruments like WATSON to capture images, and future 	missions might involve drilling and sample return.
+
+	◦ Assessing the scientific return of surface activities.
+
+	◦ Collaborating with scientists on Earth to interpret data and plan future activities.
+
+• Mobility and Vehicle Operations: As seen in the plans for the Artemis Base Camp on the Moon, which include the use of a Lunar Terrain Vehicle (LTV) and a habitable mobility platform, similar roles would be necessary on Mars. This could involve:
+
+	◦ Operating pressurized and unpressurized rovers to transport crew and equipment across the Martian surface. The illustration of an astronaut on 	Mars using a remote-control drone also suggests a potential role for remote operation of vehicles.
+
+	◦ Planning and executing traverses to reach specific scientific targets or resource locations.
+
+	◦ Maintaining and repairing surface vehicles and related equipment.
+
+• Habitat and Life Support Systems Management: For long-duration stays on Mars, personnel would be needed to manage the surface habitat and its life support systems. This could involve:
+
+	◦ Monitoring and maintaining environmental control and life support systems, similar to the advanced systems being developed and tested on the 	International Space Station (ISS) and for the Orion spacecraft.
+	
+	◦ Managing power generation and distribution from sources like advanced solar and fission power systems, which are being considered for both lunar 	and Martian surface operations.
+	
+	◦ Overseeing waste management and recycling systems.
+
+• Extravehicular Activity (EVA) Operations: Conducting spacewalks (EVAs) on the Martian surface will require specialized personnel responsible for:
+
+	◦ Planning and preparing for EVAs, including tool selection and safety procedures.
+
+	◦ Assisting astronauts in donning and doffing Exploration Extravehicular Mobility Unit (xEMU) spacesuits.
+
+	◦ Monitoring and supporting astronauts during EVAs.
+
+	◦ Maintaining and servicing spacesuits and EVA equipment.
+
+• In-Situ Resource Utilization (ISRU) Operations: If future Mars missions aim to utilize local resources, as planned for the Moon, roles related to ISRU would be crucial. This could involve:
+
+	◦ Operating equipment for extracting and processing resources like water ice or atmospheric gases.
+
+	◦ Maintaining and repairing ISRU systems.
+
+	◦ Analyzing the output of ISRU processes.
+
+• Robotics and Automation: The sources mention the use of robots for various tasks. Surface operations staff would likely be involved in:
+	
+	◦ Deploying and operating robotic assistants for tasks like maintenance, repairs, and scientific investigations.
+	
+	◦ Potentially controlling robotic components remotely from the habitat, drawing on experience gained from experiments on the ISS.
+
+• Safety and Risk Management: As highlighted in the NCAS simulation with the Safety Officer role, ensuring the safety of all surface operations will be paramount. This would involve:
+
+	◦ Developing and implementing safety protocols and procedures.
+
+	◦ Monitoring environmental constraints like radiation and dust.
+
+	◦ Responding to emergencies and contingency situations.
+
+These potential roles demonstrate the diverse skill sets and responsibilities that surface operations staff would likely have during a human mission to Mars, drawing parallels from lunar plans and the principles of safe and productive human space travel emphasized in the sources.
