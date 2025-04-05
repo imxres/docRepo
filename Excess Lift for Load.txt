@@ -1,0 +1,21 @@
+The sources and our conversation history provide information about the lift capabilities and payloads of various spacecraft, implying the importance of having sufficient lift for a mission's load. However, they do not specify a precise amount of "extra lift" that is universally desirable. Instead, they highlight the benefits of having reserve capacity and the considerations that influence payload and mission design.
+
+• The Space Launch System (SLS) will have a 115-ton lift capacity in its crew configuration. This is designed to send the Orion spacecraft, with crew and life support systems, to the Moon on a single mission. The high payload mass and volume capability of the SLS are key features.
+
+• Artemis I will utilize the excess volume on the SLS to carry 13 CubeSats to deep space for science and technology research. This demonstrates a strategic use of available lift capacity beyond the primary mission objectives.
+
+• The Mars Reconnaissance Orbiter weighed about 2,180 kilograms (4,800 pounds) at launch, with fuel comprising roughly half of that mass. The mission utilized aerobraking to reduce the amount of onboard fuel needed to achieve its desired orbit around Mars, effectively managing the launch load. This suggests that mission planning often involves optimizing the launch mass to balance payload capacity with fuel requirements and mission duration.
+
+• The Dynetics Human Landing System concept and the SpaceX Starship are designed for heavy-lift capabilities to support lunar and Martian travel. This implies that future missions to more distant destinations or those requiring larger payloads will necessitate significant lift capacity.
+
+• NASA's strategy with the Artemis missions includes stimulating the commercial space industry to drive down costs and grow business opportunities. This likely includes the development of various launch vehicles with different lift capacities to meet a range of mission needs. The emergence of multiple new heavy-lift systems is expected to provide more options for future space exploration.
+While the sources do not give a specific numerical target for "extra lift," they suggest that having a margin in lift capacity is advantageous for several reasons:
+
+• Accommodating secondary payloads or technology demonstrations like the CubeSats on Artemis I.
+
+• Providing flexibility for mission adjustments or unforeseen increases in payload mass.
+
+• Enabling more robust mission designs that may involve carrying additional fuel for longer durations or more complex maneuvers, although strategies like aerobraking can mitigate this need.
+
+• Facilitating future upgrades or expansions of a mission's capabilities.
+The desired "extra lift" is not a fixed value but rather a trade-off determined by mission requirements, budget constraints, available launch vehicles, and risk management considerations. Mission planners must balance the need for sufficient lift to accomplish their goals with the costs associated with larger launch vehicles and the potential for underutilization of capacity if too much "extra lift" is available but not needed.
